@@ -128,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "bigdata-maps"
+  "defaultProject": "bigdata-maps",
+  "cli": {
+    "analytics": "0bb64800-deb3-4939-b7f5-6d59f80c69a5"
+  }
 }
